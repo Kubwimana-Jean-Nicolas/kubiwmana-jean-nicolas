@@ -1,25 +1,20 @@
-# kubiwmana-jean-nicolas
 <h1 align="center">Hi there 👋🏾, I'm Kubwimana Jean Nicolas</h1>
 
 <p align="center">
-  <em>Data Moderator | Junior Backend Developer | Linux Enthusiast | Lifelong Learner</em>
+  <em>ALX Software Engineering Learner | Junior Backend Developer | Linux Enthusiast | Lifelong Learner</em>
 </p>
 
 ---
 
 ## 👨🏾‍💻 About Me
 
-I’m a **Data Moderator** with a sharp focus on ensuring **accuracy, safety, and quality** in digital content. Currently, I’m leveling up as a **Backend Developer** through the **ALX Software Engineering Program**, gaining hands-on experience with:
+I started my journey in **Software Engineering** because I am passionate about using technology to solve **real-world problems** and create meaningful digital experiences.  
 
-- 🐍 Python
-- 🌐 Django & REST Framework
-- 🐘 PostgreSQL
-- 🐳 Docker
-- 🧪 Unit Testing & API Design
+Currently, I’m learning **Backend Development** through the **ALX Software Engineering Program**, focusing on building secure and scalable systems.  
 
-I'm passionate about using technology to solve real-world problems, especially in making digital platforms **safer, smarter, and more inclusive**.
+> 🔭 My vision: To become an innovative engineer who builds technologies that empower people and solve global challenges.  
 
-> 🔭 My mission is to build **secure, scalable backend systems** that power meaningful digital experiences.
+I am particularly inspired by projects that combine **efficiency, creativity, and problem-solving**, and I aim to work on **backend systems, APIs, and automation solutions**.
 
 ---
 
@@ -27,9 +22,9 @@ I'm passionate about using technology to solve real-world problems, especially i
 
 - 👨🏾‍💻 **Languages**: Python, JavaScript (basics)
 - 🔧 **Backend**: Django, Django REST Framework
-- 🗄️ **Databases**: PostgreSQL, SQLite
-- 📦 **Tools**: Docker, Git, GitHub, Linux
-- 💡 **Learning**: GraphQL, Redis, Celery, CI/CD
+- 🗄️ **Databases**: PostgreSQL, MySQL, SQLite
+- 📦 **Tools**: Docker, Git, GitHub, Linux, Celery, Redis
+- 💡 **Learning**: GraphQL, CI/CD, Cloud Deployment
 
 ---
 
@@ -37,13 +32,14 @@ I'm passionate about using technology to solve real-world problems, especially i
 
 - ✅ **Network Fundamentals Certificate**
 - ✅ **NETOPS Linux Essentials**
+- ✅ **ALX Software Engineering Progress Certificates** (ongoing)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📌 [Airbnb Clone Backend API](https://github.com/Kubwimana-Jean-Nicolas/Airbnb-Clone-Backend)
-> A RESTful API powering a property listing and booking platform like Airbnb.
+A RESTful API powering a property listing and booking platform like Airbnb.
 
 **Key Features**:
 - User registration & authentication
@@ -54,22 +50,27 @@ I'm passionate about using technology to solve real-world problems, especially i
 
 **Tech Used**: Django, DRF, PostgreSQL, Docker, Redis, Celery
 
+### 📌 [Future Projects Placeholder](#)
+> Upcoming projects will showcase API development, automation, and collaborative software solutions.
+
 ---
 
-## 🧑🏾‍🤝‍🧑🏾 Collaboration
+## 🧑🏾‍🤝‍🧑🏾 Collaboration & Goals
 
 I’m open to:
-- 🌍 Contributing to open-source
-- 💼 Internships or junior roles
-- 🎓 Mentorship (to learn or support)
-- 🤝 Collaborating on meaningful projects
+- 🌍 Contributing to **open-source projects**
+- 💼 **Internships** or junior backend roles
+- 🎓 Mentorship opportunities (both giving and receiving)
+- 🤝 Collaborating on **impactful software projects**
+
+I aim to work on projects that improve **efficiency, scalability, and accessibility** in tech systems.
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: [kunicolas2018@gmail.com](mailto:kunicolas2018@gmail.com)
-- 💬 WhatsApp: [+250780102664](https://wa.me/250780102664)
+- 📧 Email: [kunicolas2018@gmail.com](mailto:kunicolas2018@gmail.com)  
+- 💬 WhatsApp: [+250780102664](https://wa.me/250780102664)  
 - 🌐 GitHub: [github.com/Kubwimana-Jean-Nicolas](https://github.com/Kubwimana-Jean-Nicolas)
 
 ---
@@ -85,7 +86,4 @@ I’m open to:
 
 ## ✨ Fun Fact
 
-> I believe that consistent small steps create strong foundations—whether in code, career, or character.
-
----
-
+> I believe that **consistent small steps** create strong foundations—whether in code, career, or personal growth.
